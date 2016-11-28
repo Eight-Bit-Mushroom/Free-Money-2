@@ -1,0 +1,9 @@
+1. App will be based on a Clicker-style app, like AdCap or CookieClicker
+2. Steampunk Theme
+3. Main currency is obtained by clicking contraptions and inventions that can be upgraded.
+4. Some contraptions operate automatically, without the player needing to click anything.
+5. Currency is known as Steam
+6. Rare secondary currency only available through microtransactions and special events is called Brass
+7. Brass is used to get special power-ups, speed up upgrades, and buy normal or special contraptions
+8. App is supported on Android
+9. Ads are not forced, ads are a decision that boosts your Steam, 
