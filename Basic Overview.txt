@@ -6,4 +6,5 @@
 6. Rare secondary currency only available through microtransactions and special events is called Brass
 7. Brass is used to get special power-ups, speed up upgrades, and buy normal or special contraptions
 8. App is supported on Android
-9. Ads are not forced, ads are a decision that boosts your Steam, 
+9. Ads are not forced, ads are a decision that boosts your Steam as well as Steam production
+10. 
