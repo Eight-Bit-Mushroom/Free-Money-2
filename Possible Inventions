@@ -1,4 +1,5 @@
 1. Cog-takes 1 second to complete, gives 3 Steam, starter invention, mechanical
-2. Water Pump-takes 4 seconds to complete, gives 10 steam, costs 11 steam to build, hydraulic
-3. Geothermal Vent-takes 13 seconds to complete, gives 46 steam, costs 35 steam to build, hydraulic, thermal
-4. Nuclear Reactor-takes 41 seconds to complete, gives 160 steam, costs 98 steam to build, radioactive
+2. Water Pump-takes 4 seconds to complete, gives 10 steam, hydraulic
+3. Geothermal Vent-takes 13 seconds to complete, gives 46 steam, hydraulic, thermal
+4. Nuclear Reactor-takes 41 seconds to complete, gives 160 steam, radioactive
+5. Hydroponic House-takes 32 seconds to complete, gives 110 steam, biotic
