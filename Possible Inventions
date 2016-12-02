@@ -1,5 +1,5 @@
 1. Cog-takes 1 second to complete, gives 3 Steam, starter invention, mechanical
-2. Water Pump-takes 4 seconds to complete, gives 10 steam, lvl 1, hydraulic
+2. Water Pump-takes 4 seconds to complete, gives 11 steam, lvl 1, hydraulic
 3. Geothermal Vent-takes 13 seconds to complete, gives 46 steam, lvl 2, thermal/hydraulic
 4. Nuclear Reactor-takes 41 seconds to complete, gives 160 steam, lvl 1, radioactive
 5. Hydroponic House-takes 32 seconds to complete, gives 110 steam, lvl 1, biotic
@@ -7,4 +7,6 @@
 7. Coal Burner-12 seconds to complete, gives 28 steam, lvl 1, thermal
 8. Oil Burner-15 seconds to complete, gives 34 steam, lvl 1, thermal
 9. Water Wheel-9 seconds to complete, gives 20 steam, lvl 1, hydraulic/mechanical
-10. Locomotive-20 seconds to complete, gives 
+10. Locomotive-20 seconds to complete, gives 81 steam, lvl 2, mechanical/supply
+11. Iron Mine-14 seconds to complete, gives 50 steam, lvl 1, supply
+12. Crane-12 seconds to complete, gives 44 steam, lvl 2, construction
