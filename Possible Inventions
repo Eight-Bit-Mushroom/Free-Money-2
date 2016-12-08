@@ -3,7 +3,7 @@
 3. Geothermal Vent-takes 13 seconds to complete, gives 48 steam, lvl 2, thermal/hydraulic
 4. Nuclear Reactor-takes 41 seconds to complete, gives 123 steam, lvl 1, radioactive
 5. Hydroponic House-takes 32 seconds to complete, gives 96 steam, lvl 1, biotic
-6. Time Machine-7 seconds to complete, gives 28 steam, lvl 2, temporal
+6. Time Machine-7 seconds to complete, gives 42 steam, lvl 4, temporal
 7. Coal Burner-12 seconds to complete, gives 36 steam, lvl 1, thermal
 8. Oil Burner-15 seconds to complete, gives 45 steam, lvl 1, thermal
 9. Water Wheel-9 seconds to complete, gives 23 steam, lvl 1, hydraulic/mechanical
@@ -13,5 +13,6 @@
 13. Zeppelin-25 seconds to complete, gives 115 steam, lvl 3, mechanical/supply
 14. Nuclear Submarine-21 seconds to complete, gives 93 steam, lvl 3, nuclear/hydraulic/supply
 15. Wells Fargo-14 seconds to complete, gives 52 steam, lvl 2, biotic/supply
-16. Aquaculture- 17 seconds to complete, gives 62 steam, lvl 2, biotic/supply/hydraulic
-17. Cheese Factory- 30 seconds to complete, gives 120 steam, lvl 2, supply
+16. Aquaculture-17 seconds to complete, gives 62 steam, lvl 2, biotic/supply/hydraulic
+17. Cheese Factory-30 seconds to complete, gives 120 steam, lvl 2, supply
+18. Uranium Mine-takes 16 seconds to complete, gives 76 steam, lvl 3, supply/radioactive
